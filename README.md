@@ -1,4 +1,4 @@
-# menu
+# cpp-cli-menu
 
 A very simple C++ library with just one function to print and navigate a menu, for those times when you want to do only one out of several independent things in one same binary, but you're too lazy to deal with command-line arguments.
 
